@@ -17,9 +17,3 @@ The following repository is just a compilation of Jupyter notebooks I used while
 - **Observations**:
     - `Sex`: Female passengers were more likely to survive than male passengers
     - `Pclass`: 1st class passengers were more likely to survive than 3rd class passengers
-    - Spotted outlier 3rd class passengers, who were recorded with the same `Ticket` and were listed with higher `Fare` (50+):
-        - Sage family:
-            - Listed with 8 `SibSp`
-            - Did not survive
-        - Male passengers of Asian descent:
-            - Many of them survived
